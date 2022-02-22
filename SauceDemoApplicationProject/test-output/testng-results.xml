@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-15T18:26:21 IST" name="Suite" finished-at="2022-02-15T18:27:25 IST" duration-ms="64159">
+    <groups>
+    </groups>
+    <test started-at="2022-02-15T18:26:21 IST" name="Test" finished-at="2022-02-15T18:27:25 IST" duration-ms="64159">
+      <class name="com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality@21282ed8]" started-at="2022-02-15T18:27:01 IST" name="setUpMethod" finished-at="2022-02-15T18:27:24 IST" duration-ms="22725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="loginMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality@21282ed8]" started-at="2022-02-15T18:27:24 IST" name="loginMethod" finished-at="2022-02-15T18:27:24 IST" duration-ms="536" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+        <test-method signature="VerifyAddtoCartFunctionality()[pri:0, instance:com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality@21282ed8]" started-at="2022-02-15T18:27:24 IST" name="VerifyAddtoCartFunctionality" finished-at="2022-02-15T18:27:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddtoCartFunctionality -->
+        <test-method is-config="true" signature="logOutMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality@21282ed8]" started-at="2022-02-15T18:27:24 IST" name="logOutMethod" finished-at="2022-02-15T18:27:25 IST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutMethod -->
+      </class> <!-- com.sauceDemo.TestClasses.TC03VerifyAddtoCartFunctionality -->
+      <class name="com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity@3e11f9e9]" started-at="2022-02-15T18:26:21 IST" name="setUpMethod" finished-at="2022-02-15T18:26:39 IST" duration-ms="17370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="loginMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity@3e11f9e9]" started-at="2022-02-15T18:26:39 IST" name="loginMethod" finished-at="2022-02-15T18:26:39 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity@3e11f9e9]" started-at="2022-02-15T18:26:39 IST" name="verifyLogin" finished-at="2022-02-15T18:26:40 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="logOutMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity@3e11f9e9]" started-at="2022-02-15T18:26:40 IST" name="logOutMethod" finished-at="2022-02-15T18:26:40 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity@3e11f9e9]" started-at="2022-02-15T18:27:25 IST" name="tearDown" finished-at="2022-02-15T18:27:25 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sauceDemo.TestClasses.TC01VerifyLoginFunctioanlity -->
+      <class name="com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality@550dbc7a]" started-at="2022-02-15T18:26:40 IST" name="setUpMethod" finished-at="2022-02-15T18:27:00 IST" duration-ms="20216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method is-config="true" signature="loginMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality@550dbc7a]" started-at="2022-02-15T18:27:00 IST" name="loginMethod" finished-at="2022-02-15T18:27:01 IST" duration-ms="608" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginMethod -->
+        <test-method signature="VerifyLogoutFunctionality()[pri:0, instance:com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality@550dbc7a]" started-at="2022-02-15T18:27:01 IST" name="VerifyLogoutFunctionality" finished-at="2022-02-15T18:27:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogoutFunctionality -->
+        <test-method is-config="true" signature="logOutMethod()[pri:0, instance:com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality@550dbc7a]" started-at="2022-02-15T18:27:01 IST" name="logOutMethod" finished-at="2022-02-15T18:27:01 IST" duration-ms="324" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutMethod -->
+      </class> <!-- com.sauceDemo.TestClasses.TC02VerifyLogoutFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
